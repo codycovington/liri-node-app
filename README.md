@@ -8,3 +8,8 @@ LIRI (Language Interpretation and Recognition Interface). A simple NODE app vers
   1. Twitter API
   2. Spotify API
   3. OMDB API
+
+NPM Packages Required:
+1. Twitter
+2. node-spotify-api
+3. request
