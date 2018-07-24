@@ -5,11 +5,11 @@
 4. Read commands from text files. <process.argv[2] = do-what-it-says>
   
 ## APIs 
-1. 'Twitter API'
-2. 'Spotify API'
-3. 'OMDB API'
+1. `Twitter API`
+2. `Spotify API`
+3. `OMDB API`
 
 ## NPM Packages Required:
-1. 'Twitter'
-2. 'node-spotify-api'
-3. 'request'
+1. `Twitter`
+2. `node-spotify-api`
+3. `request`
